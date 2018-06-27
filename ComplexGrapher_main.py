@@ -3,7 +3,7 @@
 from ComplexField import *
 from ColorField import *
 
-screenLength = 1000
+screenLength = 800
 source = ComplexField(screenLength, screenLength)
 source.initIdentMap()
 source.zoom(80)
